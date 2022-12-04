@@ -20,14 +20,14 @@ Typically, a single file is called to run the project (something along the lines
 
 python code/main.py
 
-##Methodology
+## Methodology
 What kind of analyses or visualizations did you do? (Similar to Homework 2 Q3, but now you should answer based on your progress, rather than just your plan)
 
-##Visualization
+## Visualization
 which visualization methods did we use
 why did we chose this particular way of visualizing data
 what insights are revealed through the means of this visualization
 [Bonus] Did you do any advanced visualizations? Briefly describe how you do it, and why it’s a great visualization
 
-##Future Work
+## Future Work
 Given more time, what is the direction that you would want to take this project in?
