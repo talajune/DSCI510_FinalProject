@@ -20,7 +20,7 @@ from itertools import chain # for making dataframe from list of lists of dicts
 # importing World Happines Ranking Data
 happiness_data = pd.read_csv('./2019.csv')
 
-# For some reason the API does not have data on Taiwan, which is in the top 100 countries from the happiness_data csv so I am just going to do top 31 countries since it skips Taiwan later on when merging.
+# For some reason the API does not have data on some countries (for ex. Taiwan), which is in the top 100 countries from the happiness_data csv, so I am doing top 115 countries so I can get 100 rows of data.
 happiness_data = happiness_data[:115]
 #happiness_data
 
