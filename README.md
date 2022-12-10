@@ -1,9 +1,13 @@
 # DSCI 510 - Final Project
+Hello! Welcome to my final project for DSCI510. I will be analyzing country demographic data joined with the World Happiness Report ranking to draw conclusions about what factors seem to impact a country's "Happiness Score". I haven't decided which attributes to choose from for my visualizations and analysis, so I haven't dropped many of them from my code yet. 
 
-
-Hello! Welcome to my final project for DSCI510. I will be analyzing country demographic data joined with the World Happiness Report ranking to draw conclusions about what factors seem to impact a country's "Happiness Score". I haven't decided which attributes to choose from for my visualizations and analysis, so I haven't dropped many of them from my code yet. More coming soon!
-
-
+# Dec/9 updates: 
+To Do:
+- change data collection to include all countries on the World Happiness Ranking list rather than top 100. 
+- Select which columns/attributes I actually care about and be intentional about which ones I drop.
+- MAYBE include more attributes from the original dataset 
+- I think I will include Region in my analsyis so I can compare different regions of the world and their average ranking.
+- Update visualizations to reflect all of these changes, especially map. once i have all the different regions, I will create some dot plots.
 
 
 ## Dependencies
