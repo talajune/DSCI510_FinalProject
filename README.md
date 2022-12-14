@@ -1,5 +1,12 @@
 # DSCI 510 - Final Project
-Hello! Welcome to my final project for DSCI510. I will be analyzing country demographic data joined with the World Happiness Report ranking to draw conclusions about what factors seem to impact a country's "Happiness Score". I haven't decided which attributes to choose from for my visualizations and analysis, so I haven't dropped many of them from my code yet. 
+Research question: What are the some factors that correlate to a country’s happiness ranking?
+
+I collected data from two sources:
+ 1)  One openly available dataset from 2015 called the “World Happiness Report” from Kaggle (https://www.kaggle.com/datasets/unsdsn/world-happiness) and 2) using country demographic statistics from a country API (https://api-ninjas.com/api/country). 
+
+My project aims to uncover and identify correlations and trends between a country’s demographic statistics (i.e. factors like infant mortality rates, internet users, region, and urban population) and its happiness ranking.The analysis method I used include correlation analysis using NumPy and Pandas, and creating visualization, like scatterplots, bar charts, and maps that show the relationship between a country’s happiness ranking and specific attributes.
+
+Please look below for more information on dependencies, installation, and running the project!
 
 
 ## Dependencies
