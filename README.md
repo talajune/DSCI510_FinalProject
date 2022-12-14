@@ -101,7 +101,6 @@ countries, and countries with a rank of 140 to 150 are the “unhappiest” coun
 
 ## Initial Analysis Using a Correlation Heatmap
 
-
 I wanted to use this correlation heatmap to better understand the correlation relationship
 between different features in my dataset. After dropping columns I felt were irrelevant to my
 project, I created this correlation heatmap as a first step to get a better understanding of the
@@ -153,7 +152,7 @@ their respective regions and finding the mean for each region’s overall happin
 making it into a new dataframe.
 
 
-**Internet Users and Urban Population, Happiness Ranking Interactive Scatterplot**
+## Internet Users and Urban Population, Happiness Ranking Interactive Scatterplot**
 
 This visualization is interactive (hover over points for specific data points like specific
 country name) and gives a glimpse into the relationship between percentage of population that
