@@ -3,19 +3,15 @@ Hello! Welcome to my final project for DSCI510. I will be analyzing country demo
 
 
 ## Dependencies
-A list of all of the dependencies used, included their version number
-Preferably you should put this information in the requirements.txt file but please list it here as well
 
- <br 
-requests==2.27.1
-  />
-requests-file==1.5.1
-pandas==1.4.2 
-numpy==1.21.5
-matplotlib==3.5.1
-plotly==5.6.0
-seaborn==0.11.2
-json
+requests==2.27.1 \
+requests-file==1.5.1 \
+pandas==1.4.2 \
+numpy==1.21.5 \
+matplotlib==3.5.1 \
+plotly==5.6.0 \
+seaborn==0.11.2 \
+json \
 itertools import chain
 
 
