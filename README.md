@@ -2,7 +2,7 @@
 
 **Research question:** What are some factors that correlateto a country’s happiness ranking?
 
-**Note: Please refer to README.pdf to see all of the visualizatiosn and data snippets I included in my README file. **
+**Note: Please refer to README.pdf to see all of the visualizatiosn and data snippets I included in my README file.**
 
 I collected data from two sources:
 1) One openly available dataset from 2015 called the “World Happiness Report” from Kaggle
