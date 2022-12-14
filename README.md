@@ -19,8 +19,6 @@ numpy==1.21.5 \
 matplotlib==3.5.1 \
 plotly==5.6.0 \
 seaborn==0.11.2 \
-json \
-itertools import chain
 
 
 ## Installation
