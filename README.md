@@ -128,7 +128,7 @@ include Iran, Russia, Greenland, and Venezuela. It is interesting to see how the
 continent, with countries in North America and Northern and Western Europe reporting as
 “happier” than countries in Africa or Asia. One country that stands out to me is Saudi Arabia, I
 wasn’t expecting their Happiness Ranking to be so low on the ranking list, we can see they are
-one of the only middle eastern countries to have such a low happiness ranking (they are happier
+one of the only Middle Eastern countries to have such a low happiness ranking (they are happier
 than most!)
 
 ## Infant Mortality and Happiness Ranking Scatterplot
