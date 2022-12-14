@@ -6,7 +6,7 @@
 
 I collected data from two sources:
 1) One openly available dataset from 2015 called the “World Happiness Report” from Kaggle
-(https://www.kaggle.com/datasets/unsdsn/world-happiness)and 2) using country demographic
+(https://www.kaggle.com/datasets/unsdsn/world-happiness) and 2) using country demographic
 statistics from a country API (https://api-ninjas.com/api/country).
 
 My project aims to identify correlations and trends between a country’s demographic statistics
