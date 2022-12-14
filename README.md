@@ -2,7 +2,8 @@
 Research question: What are the some factors that correlate to a country’s happiness ranking?
 
 I collected data from two sources:
- 1)  One openly available dataset from 2015 called the “World Happiness Report” from Kaggle (https://www.kaggle.com/datasets/unsdsn/world-happiness) and 2) using country demographic statistics from a country API (https://api-ninjas.com/api/country). 
+ 1)  One openly available dataset from 2015 called the “World Happiness Report” from Kaggle (https://www.kaggle.com/datasets/unsdsn/world-happiness) and 
+ 2)  using country demographic statistics from a country API (https://api-ninjas.com/api/country). 
 
 My project aims to uncover and identify correlations and trends between a country’s demographic statistics (i.e. factors like infant mortality rates, internet users, region, and urban population) and its happiness ranking.The analysis method I used include correlation analysis using NumPy and Pandas, and creating visualization, like scatterplots, bar charts, and maps that show the relationship between a country’s happiness ranking and specific attributes.
 
@@ -37,7 +38,6 @@ What kind of analyses or visualizations did you do?
 which visualization methods did we use
 why did we chose this particular way of visualizing data
 what insights are revealed through the means of this visualization
-[Bonus] Did you do any advanced visualizations? Briefly describe how you do it, and why it’s a great visualization
 
 ## Future Work
 Given more time, what is the direction that you would want to take this project in?
